@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DSJAVA/PatronesEstructurales (1)/patrones/lib/mysql-connector-j-8.0.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSJAVA/PatronesEstructurales (1)/patrones/lib/protobuf-java-3.21.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSJAVA/PatronesEstructurales (1)/patrones/lib/mysql-connector-j-8.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
